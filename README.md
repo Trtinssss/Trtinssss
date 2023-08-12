@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I am studying at University of Information Technology - Vietnam National University HCMC.
+- ✍ I am studying E-Commerce at University of Information Technology - Vietnam National University Ho Chi Minh City.
 
 <br />
 
