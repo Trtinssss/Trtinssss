@@ -2,7 +2,6 @@
 <a href="#" target="_blank">
   <img src="trungtin.svg" width="1200" alt="trungquandev-official" />
 </a>
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam  </h3>
 </p>
