@@ -10,8 +10,8 @@
 <br />
 
 
-
-<p align="center"> 📫 How to reach me:
+ <h2 align="center">📫 How to reach me:
+<p align="center"> 
   
    </a>
   <a href="https://www.facebook.com/profile.php?id=100008536991595" alt="Facebook">
