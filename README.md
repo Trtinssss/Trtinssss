@@ -1,3 +1,4 @@
+<!-- Trungtin -->
 <a href="#" target="_blank">
   <img src="svg/trungtin.svg" width="1200" alt="trungquandev-official" />
 </a>
